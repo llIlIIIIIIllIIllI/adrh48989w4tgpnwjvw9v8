@@ -1,2 +1,4 @@
-SynapseBetaKey!
-yeshello
+return {
+"SynapseBetaKey!",
+"yeshello",
+}
